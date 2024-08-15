@@ -5,7 +5,7 @@ Escreva um ou dois parágrafos resumindo o objetivo do seu projeto.
 ## Integrantes
 
 * Luis Henrique G Barbosa
-* Nome completo do aluno 2
+* Marcela Mendes Campos
 * Nome completo do aluno 3
 * Nome completo do aluno 4
 * Nome completo do aluno 5
@@ -13,7 +13,7 @@ Escreva um ou dois parágrafos resumindo o objetivo do seu projeto.
 
 ## Professor
 
-* Nome completo do professor 1
+* Michelle Hanne Soares de Andrade
 * Nome completo do professor 2
 * Nome completo do professor 3
 
