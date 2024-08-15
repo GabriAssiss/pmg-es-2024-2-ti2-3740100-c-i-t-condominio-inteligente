@@ -13,9 +13,9 @@ Escreva um ou dois parágrafos resumindo o objetivo do seu projeto.
 
 ## Professor
 
-* Michelle Hanne Soares de Andrade
+* Alexandre Marques
 * Danilo Boechat Seufitelli
-* Ilo Amy Saldanha Rivero
+* Michelle Hanne Soares de Andrade
 
 ## Instruções de utilização
 
