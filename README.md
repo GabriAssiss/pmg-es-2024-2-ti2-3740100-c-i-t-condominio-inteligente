@@ -8,7 +8,7 @@ Escreva um ou dois parágrafos resumindo o objetivo do seu projeto.
 * Marcela Mendes Campos
 * João Pedro Peres Barbosa
 * João Victor dos Santos Nogueira 
-* Nome completo do aluno 5
+* Djair Augusto Galdino Soares
 * Nome completo do aluno 6
 
 ## Professor
