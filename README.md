@@ -7,7 +7,7 @@ Escreva um ou dois parágrafos resumindo o objetivo do seu projeto.
 * Luis Henrique Gonçalves Barbosa
 * Marcela Mendes Campos
 * João Pedro Peres Barbosa
-* Nome completo do aluno 4
+* João Victor dos Santos Nogueira 
 * Nome completo do aluno 5
 * Nome completo do aluno 6
 
